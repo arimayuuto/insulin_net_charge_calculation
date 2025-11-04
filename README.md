@@ -16,8 +16,8 @@ Proyek ini menggunakan sekuens preproinsulin manusia dan nilai pKR untuk asam am
 
 Proyek ini terdiri dari dua komponen utama:
 
-1.  **`7_net-charge.py`**: Skrip Python yang berisi logika pembersihan sekuens, pemisahan rantai insulin, pendefinisian nilai pKR, dan perhitungan muatan bersih.
-2.  **`insulin.xlsx - Sheet1.csv`** (Atau file data sekuens yang digunakan): Berisi sekuens protein mentah dan/atau data pendukung (seperti nilai pKR dan hasil perhitungan) yang digunakan dalam skrip.
+1.  **`net-charge.py`**: Skrip Python yang berisi logika pembersihan sekuens, pemisahan rantai insulin, pendefinisian nilai pKR, dan perhitungan muatan bersih.
+2.  **`insulin.xlsx; preproinsulin-seq.txt`** (Atau file data sekuens yang digunakan): Berisi sekuens protein mentah dan/atau data pendukung (seperti nilai pKR dan hasil perhitungan) yang digunakan dalam skrip.
 
 ### ⚙️ Cara Menggunakan Skrip (`7_net-charge.py`)
 
